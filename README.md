@@ -50,13 +50,3 @@
 
 ## Docker17.cmd
 * Tüm çalışan container’ları silelim. 
-
-
-
-
-
-
-
-
-
-
